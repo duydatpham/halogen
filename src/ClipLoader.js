@@ -25,12 +25,12 @@ var animationName = insertKeyframesRule(keyframes);
 var Loader = React.createClass({
     /**
      * @type {Object}
-     */
-    propTypes: {
-        loading: React.PropTypes.bool,
-        color: React.PropTypes.string,
-        size: React.PropTypes.string
-    },
+//      */
+//     propTypes: {
+//         loading: React.PropTypes.bool,
+//         color: React.PropTypes.string,
+//         size: React.PropTypes.string
+//     },
 
     /**
      * @return {Object}
