@@ -11,12 +11,12 @@ var Loader = React.createClass({
     /**
      * @type {Object}
      */
-    propTypes: {
-        loading: React.PropTypes.bool,
-        color: React.PropTypes.string,
-        size: React.PropTypes.number,
-        margin: React.PropTypes.number
-    },
+//     propTypes: {
+//         loading: React.PropTypes.bool,
+//         color: React.PropTypes.string,
+//         size: React.PropTypes.number,
+//         margin: React.PropTypes.number
+//     },
 
     /**
      * @return {Object}
